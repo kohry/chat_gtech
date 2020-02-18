@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "353785295205",
+    "firebase_url": "https://gtech-test-983b5.firebaseio.com",
+    "project_id": "gtech-test-983b5",
+    "storage_bucket": "gtech-test-983b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353785295205:android:717910c85f70d115d2718c",
+        "android_client_info": {
+          "package_name": "com.gtech.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353785295205-nqk661j3hcibpvvgf44ps1i4pfrl11gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNIGApnJt2nrSiU33IFe1x0C6oPvZ9P5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353785295205-nqk661j3hcibpvvgf44ps1i4pfrl11gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353785295205:android:f783a8469d5f381ed2718c",
+        "android_client_info": {
+          "package_name": "com.gtech.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353785295205-nqk661j3hcibpvvgf44ps1i4pfrl11gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNIGApnJt2nrSiU33IFe1x0C6oPvZ9P5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353785295205-nqk661j3hcibpvvgf44ps1i4pfrl11gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
